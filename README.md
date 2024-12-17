@@ -1,3 +1,6 @@
+ссылка на деплой сайта https://onlinestore-cards-9tjykeffh-alexkhabibovs-projects.vercel.app
+
+
 ООО "Экосистема Альфа"
 Смотрим в будущее, делаем жизнь лучше!
 
